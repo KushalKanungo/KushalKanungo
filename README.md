@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KushalKanungo
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full Stack Web Development(MERN)
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💞️ My Portfolio : https://kushalkanungo.vercel.app
+- 📫 My Digital Artworks at : https://instagram.com/k4shal
 
 <!---
 KushalKanungo/KushalKanungo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
